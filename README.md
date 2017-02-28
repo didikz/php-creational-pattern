@@ -1,5 +1,5 @@
-## PHP Design Pattern - Creational Pattern
+# PHP Design Pattern - Creational Pattern
 
-# Simple Factory
-# Factory Method
-# Builder
+## Simple Factory
+## Factory Method
+## Builder
